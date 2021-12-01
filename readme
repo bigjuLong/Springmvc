@@ -25,4 +25,4 @@ ch02requestmapping：RequestMapping的使用
         1)声明组件扫描器，指定@Controller注解所在的包名
         2）声明视图解析器，帮忙处理视图的
 
-    8.尝试更新github12536356
+    8.尝试更新github125
